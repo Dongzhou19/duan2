@@ -1,3 +1,6 @@
+Cach su dung Git
+
+
 *Moi dau: 
 git init
 git add README.md
